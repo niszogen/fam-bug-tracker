@@ -1,6 +1,7 @@
 ## Przykładowe zgłoszenie
 
 ## Opis zgłoszenia
+Co się dzieje?
 
 ## Kroki do zreprodukowania
 1. Co zrobiłeś...
